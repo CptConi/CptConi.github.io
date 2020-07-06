@@ -1054,3 +1054,21 @@ h4 {
 .realisations p {
   font-size: 1.8em;
 }
+
+@font-face {
+  font-family: "Kingthings-PetrockLight";
+  src: url("fonts/Kingthings-PetrockLight.ttf.woff") format("woff"),
+    url("fonts/Kingthings-PetrockLight.ttf.svg#Kingthings-PetrockLight")
+      format("svg"),
+    url("fonts/Kingthings-PetrockLight.ttf.eot"),
+    url("fonts/Kingthings-PetrockLight.ttf.eot?#iefix")
+      format("embedded-opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.logo_title {
+  font-family: Kingthings-PetrockLight;
+  font-size: larger;
+  font-weight: lighter;
+}
