@@ -1,3 +1,4 @@
 user-agents: *
 
+Allow: /
 Sitemap: https://cptconi.github.io/sitemap.xml
